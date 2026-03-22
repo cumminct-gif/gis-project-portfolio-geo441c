@@ -16,4 +16,7 @@ Charlie Cummings
 - Working with and Projecting Geographic coordinate systems
 - Extracting and interpreting spatial reference data
 
+## Web Mapping
+- This [comparison map](https://miamioh.maps.arcgis.com/apps/instant/compare/index.html?appid=46f11ac29b3145c28b4b786585f0f776) showcases the difference in land surface temperatures in Palm Springs, CA
+
 ```
