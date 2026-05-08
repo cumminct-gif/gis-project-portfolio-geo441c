@@ -22,4 +22,6 @@ Charlie Cummings
 
 - Final Storymap Project
 - https://storymaps.arcgis.com/stories/fd778aec7a154fd186915574bd5ded75
+- Proposal Slides
+- https://docs.google.com/presentation/d/12SXGZ9HiotTUtLQ7GtN8Y1wNRRivNJaS4PQG0eqqu3E/edit?usp=sharing
 ```
